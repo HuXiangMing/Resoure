@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "8800534d88849b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c3e00aac7dbcf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1005c4aee0bb12ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "圣尧智能/初识OCC（立方体绘制）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9749d58b24ebd716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "圣尧智能/工作日志/2023-06-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf1afbefdbc63478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "圣尧智能/工作日志/2023-06-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c004e6314b71d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9905b3e86dad97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f414df8cf7c63012",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a324f5edfc5ade5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e9df4ca08367752",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9da4d95052d45305",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea82da28fabcbeb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c41d896ee18783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "圣尧智能/工作日志/2023-06-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d47fa084bb923f37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "圣尧智能/工作日志/2023-06-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e515a1e55846c83f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6b7737124dd7078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "圣尧智能/工作日志/2023-06-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf1afbefdbc63478",
+  "lastOpenFiles": [
+    "圣尧智能/工作日志/2023-06-21.md",
+    "圣尧智能/工作日志/2023-06-20.md",
+    "圣尧智能/工作日志/2023-06-19.md",
+    "圣尧智能/工作日志/2023-06-25.md",
+    "圣尧智能/QT.md",
+    "圣尧智能/plougCAE软件.md",
+    "圣尧智能/初识OCC（立方体绘制）.md",
+    "圣尧智能/PlougCAE的开发环境配置.md",
+    "圣尧智能/工作日志/周报.md",
+    "圣尧智能/工作日志",
+    "圣尧智能/image/occlib.txt",
+    "圣尧智能/image/Pasted image 20230621133327.png",
+    "圣尧智能/image/Pasted image 20230621133126.png",
+    "圣尧智能/image/Pasted image 20230621132950.png",
+    "圣尧智能/image/Pasted image 20230621132710.png",
+    "圣尧智能/image/Pasted image 20230621132551.png",
+    "圣尧智能/image/Pasted image 20230621132535.png",
+    "圣尧智能/image/Pasted image 20230621132137.png",
+    "圣尧智能/image/Pasted image 20230621132134.png",
+    "圣尧智能/image/Pasted image 20230621131746.png",
+    "圣尧智能/image/Pasted image 20230621131305.png",
+    "PlougCAE的开发环境配置/未命名.md",
+    "123/未命名.md",
+    "未命名",
+    "未命名/未命名.md",
+    "PlougCAE的开发环境配置",
+    "123/image",
+    "123",
+    "圣尧智能/image",
+    "未命名.canvas",
+    "Pasted image 20230621100957.png.md",
+    "Pasted image 20230621100802.png.md",
+    "shen.canvas",
+    "圣尧智能",
+    "未命名 1.md"
+  ]
+}
